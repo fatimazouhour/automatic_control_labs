@@ -1,0 +1,13 @@
+# ignore MATLAB temporary files
+*.mat
+*.dat
+*.bin
+*.asv
+
+# laboratory files belonging to the course (professor handouts)
+*.pdf
+
+resourcesOutOfCourse/
+
+Random_examples_solved.m
+Labs_and_examples_resolved.m
